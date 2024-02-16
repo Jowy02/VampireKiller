@@ -1,4 +1,4 @@
-# Vampire Killers
+# Vampire Killer
 TODO: Write a project description 
 ## Installation 
 TODO: Describe the installation process 
